@@ -1,14 +1,14 @@
 Case,City,Age,Gender,Travel details,Time,x,y
 1,Auckland,60s,Male,Arrived in Auckland on Wednesday 26 February from Iran to Auckland via Bali on flight Emirates EK450.,28/02/2020,1757212.145,5920487.228
-2,Auckland,30s,Female,Arrived in Auckland on Tuesday 25 February from Singapore to Auckland on flight Air New Zealand 283. ÿ,4/03/2020,1757212.145,5920487.228
-3,Auckland,40s,Male,Associated with travel - Arrived in Auckland on Sunday 23 February from Doha to Auckland on flight Qatar Airways QR0920. ÿ,4/03/2020,1757212.145,5920487.228
-4,Auckland,40s,Male,Arrived in Auckland on Tuesday 25 February from Singapore to Auckland on flight Air New Zealand 283. ÿ,6/03/2020,1757212.145,5920487.228
-5,Auckland,40s,Female,Associated with travel - Arrived in Auckland on Sunday 23 February from Doha to Auckland on flight Qatar Airways QR0920. ÿ,7/03/2020,1757212.145,5920487.228
-6,Auckland,60s,Male,Arrived in Auckland on Friday 6 March from Houston to Auckland on flight Air New Zealand 029. ÿ,14/03/2020,1757212.145,5920487.228
+2,Auckland,30s,Female,Arrived in Auckland on Tuesday 25 February from Singapore to Auckland on flight Air New Zealand 283.,4/03/2020,1757212.145,5920487.228
+3,Auckland,40s,Male,Associated with travel - Arrived in Auckland on Sunday 23 February from Doha to Auckland on flight Qatar Airways QR0920.,4/03/2020,1757212.145,5920487.228
+4,Auckland,40s,Male,Arrived in Auckland on Tuesday 25 February from Singapore to Auckland on flight Air New Zealand 283.,6/03/2020,1757212.145,5920487.228
+5,Auckland,40s,Female,Associated with travel - Arrived in Auckland on Sunday 23 February from Doha to Auckland on flight Qatar Airways QR0920.,7/03/2020,1757212.145,5920487.228
+6,Auckland,60s,Male,Arrived in Auckland on Friday 6 March from Houston to Auckland on flight Air New Zealand 029.,14/03/2020,1757212.145,5920487.228
 7,Dunedin,30s,Female,"Arrived in Christchurch on Tuesday 10 March from Denmark to Christchurch, via Doha on flight Qatar Airways QR160, Qatar Airways QR920 to Auckland and Jetstar JQ225 to Christchurch.",15/03/2020,1406215.751,4916390.406
-8,Wellington,60s,Male,"Arrived in Wellington on Saturday 14 March from Brisbane to Wellington via France, Singapore and Brisbane on flight Air New Zealand 828. ÿ",15/03/2020,1748738.658,5427920.825
-9,Wellington,30s,Male,Arrived in Wellington on Saturday 14 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand 828 to Wellington. ÿ,17/03/2020,1748738.658,5427920.825
-10,Wellington,70s,Male,Arrived in Wellington on Saturday 14 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand 828 to Wellington. ÿ,17/03/2020,1748738.658,5427920.825
+8,Wellington,60s,Male,"Arrived in Wellington on Saturday 14 March from Brisbane to Wellington via France, Singapore and Brisbane on flight Air New Zealand 828.",15/03/2020,1748738.658,5427920.825
+9,Wellington,30s,Male,Arrived in Wellington on Saturday 14 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand 828 to Wellington.,17/03/2020,1748738.658,5427920.825
+10,Wellington,70s,Male,Arrived in Wellington on Saturday 14 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand 828 to Wellington.,17/03/2020,1748738.658,5427920.825
 11,Dunedin,40s,Male,"Arrived in Dunedin on Sunday 8 March from Singapore (Air New Zealand flight NZ283, 7 March) via Auckland (Air New Zealand flight NZ675).",17/03/2020,1406215.751,4916390.406
 12,Dunedin,Teens,Male,Associated with travel of case 11.,17/03/2020,1406215.751,4916390.406
 13,Auckland,50s,Male,Extensive travel through Europe - flight numbers to come.,18/03/2020,1757212.145,5920487.228
@@ -19,11 +19,11 @@ Case,City,Age,Gender,Travel details,Time,x,y
 18,Canterbury,40s,Female,Arrived on Monday 16 March from London - flight numbers to come.,18/03/2020,1452170.741,5153785.444
 19,Waikato,20s,Female,Arrived on Sunday 8 March from Sydney - flight numbers to come.,18/03/2020,1793648.026,5852311.718
 20,Waikato,70s,Male,Arrived on Sunday 15 March from Europe - flight numbers to come.,18/03/2020,1793648.026,5852311.718
-28,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
-27,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
-26,Auckland,na,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
-25,Auckland,60s,Male,Arrived in Auckland on Friday 13 March from Los Angeles on Air New Zealand flight NZ05.,19/03/2020,1757212.145,5920487.228
-24,Rotorua,na,Male,Arrived from France on Friday 13 March.,19/03/2020,1884824.577,5774010.074
-23,Northland,20s,Male,Arrived in Auckland on Monday 16th March from Paris to Abu Dhabi (Ehtiad flight EY38 on 14 March) to Sydney (Ehtiad flight EY450) on Virgin Australia flight VA0141.,19/03/2020,1669077.328,6062416.982
-22,Taranaki,40s,Male,"Arrived in New Plymouth on Sunday 15 March from Cairo to New Plymouth via Frankfurt (Lufthansa LH581), Vancouver (Air New Zealand NZ23) and Auckland (Air New Zealand flight NZ8035). ",19/03/2020,1723922.438,5642972.605
 21,Taranaki,40s,Female,"Arrived in New Plymouth on Monday 9 March from Cairo to New Plymouth via Dubai on flight Emirates EK926, Auckland on flight Emirates EK448 and Air New Zealand flight NZ8041 to New Plymouth. ",19/03/2020,1723922.438,5642972.605
+22,Taranaki,40s,Male,"Arrived in New Plymouth on Sunday 15 March from Cairo to New Plymouth via Frankfurt (Lufthansa LH581), Vancouver (Air New Zealand NZ23) and Auckland (Air New Zealand flight NZ8035). ",19/03/2020,1723922.438,5642972.605
+23,Northland,20s,Male,Arrived in Auckland on Monday 16th March from Paris to Abu Dhabi (Ehtiad flight EY38 on 14 March) to Sydney (Ehtiad flight EY450) on Virgin Australia flight VA0141.,19/03/2020,1669077.328,6062416.982
+24,Rotorua,na,Male,Arrived from France on Friday 13 March.,19/03/2020,1884824.577,5774010.074
+25,Auckland,60s,Male,Arrived in Auckland on Friday 13 March from Los Angeles on Air New Zealand flight NZ05.,19/03/2020,1757212.145,5920487.228
+26,Auckland,na,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
+27,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
+28,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
