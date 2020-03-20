@@ -27,3 +27,14 @@ Case,City,Age,Gender,Travel details,Time,x,y
 26,Auckland,na,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
 27,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
 28,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
+29,Auckland,na,na,Details to come.,20/03/2020,1757212.145,5920487.228
+30,Canterbury,50s,Male,Arrived in Christchurch on Sunday 15 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand NZ535 to Christchurch.,20/03/2020,1452170.741,5153785.444
+31,Wellington,40s,Male,"Arrived in Wellington on Saturday 14 March from London on flight Singapore Airlines SQ321 to Singapore, to Wellington on flight Singapore Airlines SQ247 via Melbourne.",20/03/2020,1748738.658,5427920.825
+32,Hawkes Bay,30s,Male,"Arrived in Napier on Tuesday 17 March. Munich to Qatar on flight Qatar Airways QR58, Qatar to Auckland on flight Qatar Airways QR920, Auckland  to Napier on Air New Zealand flight NZ5021.",20/03/2020,1923544.706,5664459.692
+33,Waikato,60s,Male,"Arrived in Auckland from Paris on Emirates EK74 to Dubai, to Auckland on flight Emirates EK450.",20/03/2020,1793648.026,5852311.718
+34,Waikato,70s,Female,"Arrived in Auckland from Paris on Emirates EK74 to Dubai, to Auckland on flight Emirates EK450.",20/03/2020,1793648.026,5852311.718
+35,Auckland,30s,Female,Arrived in Auckland from Los Angeles.,20/03/2020,1757212.145,5920487.228
+36,Auckland,40s,Male,Arrived in Auckland from Los Angeles.,20/03/2020,1757212.145,5920487.228
+37,Auckland,40s,Female,Arrived in Auckland on Sunday 15 March from London via Doha.,20/03/2020,1757212.145,5920487.228
+38,Wellington,30s,Male,Details to come.,20/03/2020,1748738.658,5427920.825
+39,Auckland,60s,Male,Details to come.,20/03/2020,1757212.145,5920487.228
