@@ -38,3 +38,16 @@ Case,City,Age,Gender,Travel details,Time,x,y
 37,Auckland,40s,Female,Arrived in Auckland on Sunday 15 March from London via Doha.,20/03/2020,1757212.145,5920487.228
 38,Wellington,30s,Male,Details to come.,20/03/2020,1748738.658,5427920.825
 39,Auckland,60s,Male,Details to come.,20/03/2020,1757212.145,5920487.228
+40,Wellington Region,50s,Male,"Travel related, however flights outside of infectious period. ",21/03/2020,1748738.658,5427920.825
+41,Auckland,60s,Male,Cruise ship travel. Domestic flights – Dunedin to Auckland on 15 March – flight NZ670.,21/03/2020,1757212.145,5920487.228
+42,Waikato,60s,Female,Singapore to Auckland on 13 March – flight SQ0285.,21/03/2020,1793648.026,5852311.718
+43,Wellington,50s,Male,Sydney to Wellington on 14 March – flight QF161.,21/03/2020,1748738.658,5427920.825
+44,Wellington,50s,Male,"Travel related, however international flights outside of infectious period. Domestic flights: Auckland to Wellington on 8 March – flight NZ449; Wellington to Hamilton on 12 March – flight NZ5810; Hamilton to Wellington on 13 March – flight NZ5823.",21/03/2020,1748738.658,5427920.825
+45,Wellington,30s,Female,Dubai to Auckland on 12 March – flight EK44; Auckland to Wellington on 12 March – flight NZ433,21/03/2020,1748738.658,5427920.825
+46,Auckland,70s,Male,Dunedin to Auckland on 16 March – flight NZ674,21/03/2020,1757212.145,5920487.228
+47,Taupo,50s,Male,Dubai to Auckland on 10 March – flight EK0448,21/03/2020,1867055.246,5713626.846
+48,Manawatu,40s,Male,Travel related. Queenstown to Christchurch on 13 March – flight NZ642; Christchurch to Palmerston North on 13 March – flight details unclear,21/03/2020,1808906.05,5599664.027
+49,Manawatu,20s,Female,Doha to Auckland on 14 March – flight QR0920; Auckland to Palmerston North on 16 March – flight NZ5107,21/03/2020,1808906.05,5599664.027
+50,Nelson,60s,Female,Under investigation,21/03/2020,1623783.978,5431160.645
+51,Nelson,20s,Female,"Travel related, however international flights outside of infectious period. Domestic flights: Auckland to Nelson on 16 March – flight 5065",21/03/2020,1623783.978,5431160.645
+52,Auckland,50s,Female,Under investigation,21/03/2020,1757212.145,5920487.228
