@@ -25,7 +25,7 @@ Case,City,Age,Gender,Travel details,Time,x,y
 24,Rotorua,na,Male,Arrived from France on Friday 13 March.,19/03/2020,1884824.577,5774010.074
 25,Auckland,60s,Male,Arrived in Auckland on Friday 13 March from Los Angeles on Air New Zealand flight NZ05.,19/03/2020,1757212.145,5920487.228
 26,Auckland,na,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
-27,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
+27,Southern DHB,30s,Female,Details to come.,19/03/2020,1246306.345,4903657.45
 28,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
 29,Auckland,na,na,Details to come.,20/03/2020,1757212.145,5920487.228
 30,Canterbury,50s,Male,Arrived in Christchurch on Sunday 15 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand NZ535 to Christchurch.,20/03/2020,1452170.741,5153785.444
@@ -51,3 +51,17 @@ Case,City,Age,Gender,Travel details,Time,x,y
 50,Nelson,60s,Female,Under investigation,21/03/2020,1623783.978,5431160.645
 51,Nelson,20s,Female,"Travel related, however international flights outside of infectious period. Domestic flights: Auckland to Nelson on 16 March – flight 5065",21/03/2020,1623783.978,5431160.645
 52,Auckland,50s,Female,Under investigation,21/03/2020,1757212.145,5920487.228
+53,Dundedin,40s,Male,LA to Auckland on 14 March – flight NZ1; Auckland to Queenstown on 14 March – flight NZ615,21/03/2020,1406215.751,4916390.406
+54,Waikato,40s,Female,Contact with a confirmed case,22/03/2020,1793648.026,5852311.718
+55,Coramandel,60s,Male,Honolulu to Auckland on 14 March – flight HA445 (arrived 15 March),21/03/2020,1822986.723,5928697.917
+56,Bay of Plenty,30s,Male,Travel history to the United States of America – details to come.,22/03/2020,1928103.174,5776173.388
+57,Hamilton,60s,Female,"Travel history to Ireland, Dubai and Australia. Details to come.",21/03/2020,1800703.046,5815370.451
+58,Auckland,60s,Male,No international travel history – exposed at World Herefords Conference in Queenstown. Domestic travel history: Dunedin to Auckland on Sunday 15 March – flight NZ674,21/03/2020,1757212.145,5920487.228
+59,Auckland,60s,na,No international travel history – exposed at World Herefords Conference in Queenstown.,22/03/2020,1757212.145,5920487.228
+60,Auckland,20s,Male,Dubai to Auckland on Monday 16 March – flight EK448,21/03/2020,1757212.145,5920487.228
+61,Auckland,40s,Female,Travel to Africa – details to come,22/03/2020,1757212.145,5920487.228
+62,Taranaki,50s,Male,Bangkok to Auckland on Sunday 15 March – flight TG0491; Auckland to New Plymouth on 16 March – flight NZ8041,22/03/2020,1723922.438,5642972.605
+63,Taranaki,20s,Male,Dubai to Auckland on Tuesday 17 March – flight EK448; Auckland to New Plymouth on 18 March – flight NZ8041,22/03/2020,1723922.438,5642972.605
+64,Canterbury,50s,Female,San Francisco to Auckland on Monday 16 March – flight NZ7; Auckland to Christchurch on Tuesday 17 March – flight NZ523 ,22/03/2020,1452170.741,5153785.444
+65,Northland,40s,Female,Melbourne to Auckland on Sunday 15 March – flight JQ217,21/03/2020,1669077.328,6062416.982
+66,Auckland,20s,Male,Austria to Auckland via Doha arrived 17 March- flight EK448,22/03/2020,1757212.145,5920487.228
