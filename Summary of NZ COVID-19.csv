@@ -22,12 +22,12 @@ Case,City,Age,Gender,Travel details,Time,x,y
 21,Taranaki,40s,Female,"Arrived in New Plymouth on Monday 9 March from Cairo to New Plymouth via Dubai on flight Emirates EK926, Auckland on flight Emirates EK448 and Air New Zealand flight NZ8041 to New Plymouth. ",19/03/2020,1723922.438,5642972.605
 22,Taranaki,40s,Male,"Arrived in New Plymouth on Sunday 15 March from Cairo to New Plymouth via Frankfurt (Lufthansa LH581), Vancouver (Air New Zealand NZ23) and Auckland (Air New Zealand flight NZ8035). ",19/03/2020,1723922.438,5642972.605
 23,Northland,20s,Male,Arrived in Auckland on Monday 16th March from Paris to Abu Dhabi (Ehtiad flight EY38 on 14 March) to Sydney (Ehtiad flight EY450) on Virgin Australia flight VA0141.,19/03/2020,1669077.328,6062416.982
-24,Rotorua,na,Male,Arrived from France on Friday 13 March.,19/03/2020,1884824.577,5774010.074
+24,Rotorua,50s,Male,Arrived from France on Friday 13 March.,19/03/2020,1884824.577,5774010.074
 25,Auckland,60s,Male,Arrived in Auckland on Friday 13 March from Los Angeles on Air New Zealand flight NZ05.,19/03/2020,1757212.145,5920487.228
-26,Auckland,na,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
+26,Auckland,40s,Male,Arrived in Auckland on Sunday 15th March from London to Singapore (flight QF2 on 13 March) to Melbourne (flight QF36 on 14th March) to Auckland on Qantas flight QF153.,19/03/2020,1757212.145,5920487.228
 27,Southern DHB,30s,Female,Details to come.,19/03/2020,1246306.345,4903657.45
-28,Southern DHB,na,na,Details to come.,19/03/2020,1246306.345,4903657.45
-29,Auckland,na,na,Details to come.,20/03/2020,1757212.145,5920487.228
+28,Southern DHB,60s,Male,Details to come.,19/03/2020,1246306.345,4903657.45
+29,Auckland,40s,Male,Details to come.,20/03/2020,1757212.145,5920487.228
 30,Canterbury,50s,Male,Arrived in Christchurch on Sunday 15 March from Los Angeles on flight American Airlines AA83 to Auckland and flight Air New Zealand NZ535 to Christchurch.,20/03/2020,1452170.741,5153785.444
 31,Wellington,40s,Male,"Arrived in Wellington on Saturday 14 March from London on flight Singapore Airlines SQ321 to Singapore, to Wellington on flight Singapore Airlines SQ247 via Melbourne.",20/03/2020,1748738.658,5427920.825
 32,Hawkes Bay,30s,Male,"Arrived in Napier on Tuesday 17 March. Munich to Qatar on flight Qatar Airways QR58, Qatar to Auckland on flight Qatar Airways QR920, Auckland  to Napier on Air New Zealand flight NZ5021.",20/03/2020,1923544.706,5664459.692
@@ -57,7 +57,7 @@ Case,City,Age,Gender,Travel details,Time,x,y
 56,Bay of Plenty,30s,Male,Travel history to the United States of America – details to come.,22/03/2020,1928103.174,5776173.388
 57,Hamilton,60s,Female,"Travel history to Ireland, Dubai and Australia. Details to come.",21/03/2020,1800703.046,5815370.451
 58,Auckland,60s,Male,No international travel history – exposed at World Herefords Conference in Queenstown. Domestic travel history: Dunedin to Auckland on Sunday 15 March – flight NZ674,21/03/2020,1757212.145,5920487.228
-59,Auckland,60s,na,No international travel history – exposed at World Herefords Conference in Queenstown.,22/03/2020,1757212.145,5920487.228
+59,Auckland,60s,Female,No international travel history – exposed at World Herefords Conference in Queenstown.,22/03/2020,1757212.145,5920487.228
 60,Auckland,20s,Male,Dubai to Auckland on Monday 16 March – flight EK448,21/03/2020,1757212.145,5920487.228
 61,Auckland,40s,Female,Travel to Africa – details to come,22/03/2020,1757212.145,5920487.228
 62,Taranaki,50s,Male,Bangkok to Auckland on Sunday 15 March – flight TG0491; Auckland to New Plymouth on 16 March – flight NZ8041,22/03/2020,1723922.438,5642972.605
@@ -65,3 +65,39 @@ Case,City,Age,Gender,Travel details,Time,x,y
 64,Canterbury,50s,Female,San Francisco to Auckland on Monday 16 March – flight NZ7; Auckland to Christchurch on Tuesday 17 March – flight NZ523 ,22/03/2020,1452170.741,5153785.444
 65,Northland,40s,Female,Melbourne to Auckland on Sunday 15 March – flight JQ217,21/03/2020,1669077.328,6062416.982
 66,Auckland,20s,Male,Austria to Auckland via Doha arrived 17 March- flight EK448,22/03/2020,1757212.145,5920487.228
+67,Auckland,20s,Female,Wellington to Auckland on 15 March – flight JQ256,23/03/2020,1757212.145,5920487.228
+68,Dunedin,20s,Female,"San Francisco to Auckland on 17 March – flight NZ07, Auckland to Dunedin on 19 March – flight JQ285",23/03/2020,1406215.751,4916390.406
+69,Auckland,40s,Male,Dubai to Auckland on 15 March – flight EK448,23/03/2020,1757212.145,5920487.228
+70,Auckland,50s,Female,Details to come,23/03/2020,1757212.145,5920487.228
+71,Auckland,30s,Male,LA to Auckland on 18 March – flight NZ05,23/03/2020,1757212.145,5920487.228
+72,Canterbury,20s,Female,Singapore to Christchurch on 18 March – flight SQ297,23/03/2020,1452170.741,5153785.444
+73,Auckland,Teens,Male,Details to come,23/03/2020,1757212.145,5920487.228
+74,Auckland,20s,Male,Travel to USA – flight details to come,23/03/2020,1757212.145,5920487.228
+75,Waikato,70s,Male,Relative of a confirmed case,23/03/2020,1757212.145,5920487.228
+76,Auckland,60s,Male,Hong Kong to Auckland on 13 March – flight CX2191,23/03/2020,1757212.145,5920487.228
+77,Auckland,20s,Female,Kuala Lumpur to Auckland on 19 March – flight MH0133,23/03/2020,1757212.145,5920487.228
+78,Manawatu,40s,Female,Sydney to Wellington on 19 March – flight NZ842,23/03/2020,1808906.05,5599664.027
+79,Tasman,20s,Male,International travel – flight details to come,23/03/2020,1577760.76,5437651.004
+80,Marlborough,50s,Male,"Sydney to Auckland on 18 March – flight QF143, Auckland to Blenheim on 18 March – flight NZ8205",23/03/2020,1635153.677,5397579.907
+81,Auckland,60s,Male,Dubai to Auckland on 18 March – flight EK0448,23/03/2020,1757212.145,5920487.228
+82,Auckland,60s,Female,Linked to two confirmed cases,23/03/2020,1757212.145,5920487.228
+83,Auckland,50s,Female,Doha to Auckland on 18 March – flight QR920,23/03/2020,1757212.145,5920487.228
+84,Auckland,50s,Male,Doha to Auckland on 18 March – flight QR920,23/03/2020,1757212.145,5920487.228
+85,Auckland,Child,Male,Relative of a confirmed case,23/03/2020,1757212.145,5920487.228
+86,Wellington,60s,Male,Details to come,23/03/2020,1748738.658,5427920.825
+87,Canterbury,20s,Male,Details to come,23/03/2020,1452170.741,5153785.444
+88,Nelson,70s,Female,Details to come,23/03/2020,1623783.978,5431160.645
+89,Nelson,70s,Male,"Related to case 88, details to come",23/03/2020,1623783.978,5431160.645
+90,Auckland,50s,Male,LA to New Zealand on 15 March – flight NZ1,23/03/2020,1757212.145,5920487.228
+91,Auckland,40s,Female,LA to New Zealand on 15 March – flight NZ1,23/03/2020,1757212.145,5920487.228
+92,Auckland,20s,Male,Doha to Auckland on 22 March – flight QR920,23/03/2020,1757212.145,5920487.228
+93,Auckland,40s,Female,Details to come,23/03/2020,1757212.145,5920487.228
+94,Auckland,20s,Female,Dubai to Auckland on 19 March – flight EK448,23/03/2020,1757212.145,5920487.228
+95,Auckland,40s,Female,Details to come,23/03/2020,1757212.145,5920487.228
+96,Wellington,40s,Male,Details to come,23/03/2020,1748738.658,5427920.825
+97,Wellington,20s,Female,Details to come,23/03/2020,1748738.658,5427920.825
+98,Kapiti Coast,60s,Female,Details to come,23/03/2020,1795105.522,5478276.807
+99,Nelson,50s,Female,Linked to a confirmed case,23/03/2020,1623783.978,5431160.645
+100,Auckland,Teens,Female,Details to come,23/03/2020,1757212.145,5920487.228
+101,Upper Hutt,50s,Female,Details to come,23/03/2020,1773833.293,5445363.046
+102,Auckland,50s,Male,Details to come,23/03/2020,1757212.145,5920487.228
