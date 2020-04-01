@@ -1,24 +1,24 @@
-DHB,confirmed and probable cases 2603,confirmed and probable cases 2703,confirmed and probable cases 2803,confirmed and probable cases 2903,confirmed and probable cases 3003
-Auckland,43,58,64,75,91
-Bay of Plenty,3,6,10,12,11
-Canterbury,17,30,40,46,49
-Capital and Coast,35,42,45,49,57
-Counties Manukau,23,28,33,38,40
-Hawke's Bay,3,10,11,12,12
-Hutt Valley,5,11,13,13,13
-Lakes,6,8,8,8,9
-MidCentral,5,7,10,10,11
-Nelson Marlborough,16,18,18,19,20
-Northland,3,4,6,7,9
-South Canterbury,2,2,3,5,7
-Southern,30,39,59,70,83
-Tairawhiti,0,1,1,1,1
-Taranaki,5,6,8,11,11
-Waikato,31,45,58,63,76
-Wairarapa,5,5,5,5,5
-Waitemata,29,47,54,64,78
-West Coast,1,1,2,3,3
-Whanganui,0,0,3,3,3
-Total,262,368,451,514,589
-recovered cases,27,37,50,56,
-Death,,,,1,
+DHB,confirmed and probable cases 2603,confirmed and probable cases 2703,confirmed and probable cases 2803,confirmed and probable cases 2903,confirmed and probable cases 3003,confirmed and probable cases 3103,confirmed and probable cases 0104
+Auckland,43,58,64,75,91,97,104
+Bay of Plenty,3,6,10,12,11,15,18
+Canterbury,17,30,40,46,49,50,52
+Capital and Coast,35,42,45,49,57,58,60
+Counties Manukau,23,28,33,38,40,47,53
+Hawke's Bay,3,10,11,12,12,15,16
+Hutt Valley,5,11,13,13,13,14,14
+Lakes,6,8,8,8,9,11,11
+MidCentral,5,7,10,10,11,12,13
+Nelson Marlborough,16,18,18,19,20,20,22
+Northland,3,4,6,7,9,9,11
+South Canterbury,2,2,3,5,7,7,10
+Southern,30,39,59,70,83,100,108
+Tairawhiti,0,1,1,1,1,1,1
+Taranaki,5,6,8,11,11,13,14
+Waikato,31,45,58,63,76,81,91
+Wairarapa,5,5,5,5,5,5,6
+Waitemata,29,47,54,64,78,86,98
+West Coast,1,1,2,3,3,3,3
+Whanganui,0,0,3,3,3,3,3
+Total,262,368,451,514,589,647,708
+recovered cases,27,37,50,56,63,74,82
+Death,,,,1,1,1,1
