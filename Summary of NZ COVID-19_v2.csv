@@ -1,24 +1,24 @@
-DHB,confirmed and probable cases 2603,confirmed and probable cases 2703,confirmed and probable cases 2803,confirmed and probable cases 2903,confirmed and probable cases 3003,confirmed and probable cases 3103,confirmed and probable cases 0104,confirmed and probable cases 0204,confirmed and probable cases 0304
-Auckland,43,58,64,75,91,97,104,116,121
-Bay of Plenty,3,6,10,12,11,15,18,21,28
-Canterbury,17,30,40,46,49,50,52,53,59
-Capital and Coast,35,42,45,49,57,58,60,63,66
-Counties Manukau,23,28,33,38,40,47,53,59,62
-Hawke's Bay,3,10,11,12,12,15,16,19,24
-Hutt Valley,5,11,13,13,13,14,14,15,17
-Lakes,6,8,8,8,9,11,11,11,11
-MidCentral,5,7,10,10,11,12,13,19,20
-Nelson Marlborough,16,18,18,19,20,20,22,27,30
-Northland,3,4,6,7,9,9,11,11,13
-South Canterbury,2,2,3,5,7,7,10,10,10
-Southern,30,39,59,70,83,100,108,118,132
-Tairawhiti,0,1,1,1,1,1,1,1,1
-Taranaki,5,6,8,11,11,13,14,15,14
-Waikato,31,45,58,63,76,81,91,117,125
-Wairarapa,5,5,5,5,5,5,6,6,8
-Waitemata,29,47,54,64,78,86,98,108,117
-West Coast,1,1,2,3,3,3,3,3,3
-Whanganui,0,0,3,3,3,3,3,5,7
-Total,262,368,451,514,589,647,708,797,868
-recovered cases,27,37,50,56,63,74,82,92,103
-Death,,,,1,1,1,1,1,1
+DHB,confirmed and probable cases 2603,confirmed and probable cases 2703,confirmed and probable cases 2803,confirmed and probable cases 2903,confirmed and probable cases 3003,confirmed and probable cases 3103,confirmed and probable cases 0104,confirmed and probable cases 0204,confirmed and probable cases 0404,confirmed and probable cases 0304
+Auckland,43,58,64,75,91,97,104,116,121,127
+Bay of Plenty,3,6,10,12,11,15,18,21,28,30
+Canterbury,17,30,40,46,49,50,52,53,59,66
+Capital and Coast,35,42,45,49,57,58,60,63,66,73
+Counties Manukau,23,28,33,38,40,47,53,59,62,70
+Hawke's Bay,3,10,11,12,12,15,16,19,24,29
+Hutt Valley,5,11,13,13,13,14,14,15,17,18
+Lakes,6,8,8,8,9,11,11,11,11,11
+MidCentral,5,7,10,10,11,12,13,19,20,21
+Nelson Marlborough,16,18,18,19,20,20,22,27,30,32
+Northland,3,4,6,7,9,9,11,11,13,13
+South Canterbury,2,2,3,5,7,7,10,10,10,10
+Southern,30,39,59,70,83,100,108,118,132,151
+Tairawhiti,0,1,1,1,1,1,1,1,1,1
+Taranaki,5,6,8,11,11,13,14,15,14,14
+Waikato,31,45,58,63,76,81,91,117,125,136
+Wairarapa,5,5,5,5,5,5,6,6,8,8
+Waitemata,29,47,54,64,78,86,98,108,117,129
+West Coast,1,1,2,3,3,3,3,3,3,4
+Whanganui,0,0,3,3,3,3,3,5,7,7
+Total,262,368,451,514,589,647,708,797,868,950
+recovered cases,27,37,50,56,63,74,82,92,103,127
+Death,,,,1,1,1,1,1,1,1
