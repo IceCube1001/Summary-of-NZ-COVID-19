@@ -1,4 +1,4 @@
-DHB,confirmed and probable cases 2603,confirmed and probable cases 2703,confirmed and probable cases 2803,confirmed and probable cases 2903,confirmed and probable cases 3003,confirmed and probable cases 3103,confirmed and probable cases 0104,confirmed and probable cases 0204,confirmed and probable cases 0304,confirmed and probable cases 0404,confirmed and probable cases 0504
+DHB,26-Mar,27-Mar,28-Mar,29-Mar,30-Mar,31-Mar,1-Apr,2-Apr,3-Apr,4-Apr,5-Apr
 Auckland,43,58,64,75,91,97,104,116,121,127,137
 Bay of Plenty,3,6,10,12,11,15,18,21,28,30,31
 Canterbury,17,30,40,46,49,50,52,53,59,66,86
@@ -19,6 +19,6 @@ Wairarapa,5,5,5,5,5,5,6,6,8,8,8
 Waitemata,29,47,54,64,78,86,98,108,117,129,145
 West Coast,1,1,2,3,3,3,3,3,3,4,4
 Whanganui,0,0,3,3,3,3,3,5,7,7,8
-Total,262,368,451,514,589,647,708,797,868,950,1039
-recovered cases,27,37,50,56,63,74,82,92,103,127,156
+Total confirmed and probable cases,262,368,451,514,589,647,708,797,868,950,1039
+Recovered cases,27,37,50,56,63,74,82,92,103,127,156
 Death,,,,1,1,1,1,1,1,1,1
